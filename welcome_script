@@ -1,0 +1,18 @@
+#!/usr/bin/env python
+
+def welcome():
+        a = "                           (        ) "
+        b = "                           )\ )  ( /( "
+        c = "                    (   ( (()/(  )\())"
+        d = "                    )\  )\ /(_))((_)\ "
+        e = "                   ((_)((_|_)) |_ ((_)"
+        f = "                   \ \ / /| _ \| |/ / "
+        g = "                    \ V / |  _/| ' <  "
+        h = "                     \_/  |_|  |_|\_\ "
+        i = "                     VISHNU PRASAD K"
+        j = "                         @vpk11"
+
+        display = "\n\n\n"+a+"\n"+b+"\n"+c+"\n"+d+"\n"+e+"\n"+f+"\n"+g+"\n"+h+"\n"+i+"\n"+j+"\n\n\n"
+        print display
+
+welcome()
